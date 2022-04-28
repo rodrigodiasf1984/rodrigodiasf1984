@@ -45,7 +45,7 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodiasf1984&layout=compact&theme=vision-friendly-dark" alt="rodrigodiasf1984's most languages"/>
 <img width="530em" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigodiasf1984&theme=highcontrast" alt="rodrigodiasf1984's most languages"/>
 </p>
-
+ ![Snake animation](https://github.com/rodrigodiasf1984/rodrigodiasf1984/blob/output/github-contribution-grid-snake.svg)
 <br><br>
 
 ## 📢 &nbsp;Social Links
