@@ -2,19 +2,21 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Rodrigo Dias de Figueiredo</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigodiasf1984&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Frontend developer with React, React-Native.
 
-- 🔭 I’m currently working at [TheBasementLab](https://www.thebasement.io/)
+🔥 Mobile and Frontend developer with React, React-Native.
 
-- 👨‍💻 I love to keep myself up to date with new technologies.
+🔭 I’m currently working at TheBasementLab
 
-- ▶️ I regularly watch videos about programing.
+👨‍💻 I love to keep myself up to date with new technologies.
 
-- 💬 Ask me about **React, HTML, CSS, React-native, styled-components**
+▶️ I regularly watch videos about programming.
 
-- ⚡ Fun fact **Love Cinema, Animes and BJJ 😜**
+💬 Ask me about React, HTML, CSS, React-native, and styled-components
 
-- 😊 I'm Polyglot **Portuguese, French, English ,Spanish**  
+⚡ Fun fact I Love Cinema, Animes and BJJ 😜
+
+😊 I'm Polyglot Portuguese, French, English, Spanish
+
 
 <br><br>
 
