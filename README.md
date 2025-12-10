@@ -5,7 +5,7 @@
 
 🔥 Mobile and Frontend developer with React, React-Native.
 
-🔭 I’m currently working at TheBasementLab
+🔭 I’m currently working at Formación Ninja
 
 👨‍💻 I love to keep myself up to date with new technologies.
 
